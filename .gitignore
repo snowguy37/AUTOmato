@@ -5,3 +5,5 @@
 
 # Python interpreter libraries (PyCharm configuration)
 /venv/
+# Ignore temp microsoft files
+~$*

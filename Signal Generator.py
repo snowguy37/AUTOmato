@@ -7,4 +7,8 @@ def generate_voltages(mean, std):
     return(np.random.normal(mean,std, 1))
 
 class signal:
-    
+    def __init__(self, mean: float,std: float):
+        self.mean = mean
+        self.std = std
+
+    def
