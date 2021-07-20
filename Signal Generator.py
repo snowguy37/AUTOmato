@@ -7,8 +7,13 @@ def generate_voltages(mean, std):
     return(np.random.normal(mean,std, 1))
 
 class signal:
-    def __init__(self, mean: float,std: float):
+    def __init__(self, mean: float, std: float,freq: float):
         self.mean = mean
         self.std = std
+        self.freq = freq
 
-    def
+    @property
+    def mean(self):
+        return self._mean
+    
+    @setter  
