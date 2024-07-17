@@ -6,4 +6,4 @@ This will largely be focused on measuring temperature, moister and nutrients in 
 The next step will be to collect data on plant survival rates based on type, location and inputs collected.
 
 ## Notice
-This is a working draft. Stay tuned for updates in 2022.
+This is a working draft. Stay tuned.
